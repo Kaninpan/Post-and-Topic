@@ -12,7 +12,7 @@
 ### มีความปลอดภายในเรื่องของ 
 > - CSRF Protection
 > - Session_regenerate_id
-> - htmlspecialchars()
+> - htmlspecialchars
 > - File-upload Validation
 > - Rate limiting
 > - Authorization checks
