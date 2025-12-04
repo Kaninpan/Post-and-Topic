@@ -2,6 +2,7 @@
 
 >[!NOTE]
 >**Version code PHP 8.x เพื่อความปลอดภัยและมีประสิทธิ์ภาพมากยิ่งขึ้น**
+<hr></hr>
 
 >[!TIP]
 > ### ผู้ใช้งานสามารถทำอะไรได้บ้าง ? 
@@ -12,6 +13,8 @@
 > - UI ที่ทำมาแบบหน้าเดียว มี **<ins>Emoji picker modal</ins>**<br>
 > - การเก็บข้อมูลที่ใช้เป้น **<ins>data.json (JSON)</ins>** ไม่ใช้ฐานข้อมูล<br>
 > - และ **<ins>API (POST and GET)</ins>** ต่าง ๆ **<ins>(ADD,delete,reaction,comment,edit,)</ins>**<br>
+
+<hr></hr>
 
 >[!IMPORTANT]
 > ### มีความปลอดภายในเรื่องของ 
